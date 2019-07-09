@@ -2,6 +2,8 @@
 
 #### 2019-07-13
 
-- [ ] unchecked item
-- [x] checked item
+- [x] 完成技术选型
+- [x] 完成开发环境的搭建
+- [x] 完成CMDB的表结构设计
+- [x] 完成CMDB的CURD基本动作, 包括前端和后台接口
 
